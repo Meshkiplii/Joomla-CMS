@@ -5,32 +5,25 @@ Coffee Shop Website Using Joomla CMS
 Project Overview
 This week, I transitioned from my first practical assignment to explore the Joomla CMS for building a startup business website. Joomla is an open-source content management system that enables easy creation and management of websites. The goal of this task was to create a functional, customizable website for my startup, incorporating essential pages, text, and images to reflect the business identity.  
 
-Initial Thoughts
+## **Initial Thoughts**
 Moving to Joomla from working with React and TypeScript felt like a major shift, as Joomla provides a more structured and user-friendly interface for site building, especially for users who are less comfortable with code. My goal was to make sure the website looked unique and fit the needs of a startup, rather than resembling a default Joomla installation. I was particularly interested in understanding how Joomla's template system worked and how I could customize it to align with the branding of the startup.
 
 **Steps Taken**
-Resources I used when Getting Started with Joomla CMS:
 
-Joomla Documentation
-Beginner's Guide to Joomla
-Installation and Setup:
+Resources I used when Getting Started with Joomla CMS:
+      - Joomla Documentation
+      - Beginner's Guide to Joomla
+      - Installation and Setup:
 
 Hosting Environment: Chose a hosting provider with a 1-click Joomla installer to set up the site. This allowed me to get started without needing to manually install Joomla or configure a local environment.
 Basic Setup: Completed the initial setup steps, including configuring the site name, admin details, and base settings.
 Design and Customization:
-
-Template Customization: Explored Joomla's template options and chose a starter template that aligned with the startup’s look. I modified the template’s color scheme, fonts, and layout to differentiate it from the default Joomla setup.
-Logo and Branding: Uploaded the startup’s logo and adjusted the header layout to feature the brand more prominently.
-Content Blocks: Created and organized different content blocks for the homepage, ensuring key information about the startup’s mission and services were visible.
-Content Creation:
 
 Homepage: Built the homepage with a clean layout featuring an introduction to the startup, services offered, and contact details.
 About Us: Developed a simple About Us page, providing a brief overview of the business and its vision.
 Contact Us: Created a Contact Us page, embedding a contact form and adding the business’s email and physical address.
 Images and Text: Ensured that all pages featured relevant images and text specific to the business, making the site feel professional and authentic.
 Navigation:
-
-Set up a responsive navigation bar with clear links to the Homepage, About Us, and Contact Us pages. I adjusted the navigation bar to work well on both desktop and mobile views for better user experience.
 
 ## **Challenges Faced**
 Template Customization: Understanding the intricacies of Joomla's template system took some time, especially when it came to finding the right balance between prebuilt features and custom modifications. Customizing the layout while ensuring mobile responsiveness was also a challenge.
@@ -47,4 +40,4 @@ Local Development Environment: As recommended, I plan to set up a local Joomla d
 Conclusion
 Working with Joomla CMS has been a significant learning experience in content management systems, and I am eager to explore more advanced features in the coming weeks. The ability to quickly build and customize a site without relying heavily on code is a major advantage of Joomla, and I look forward to further refining this project.
 
-Here’s the link to my Joomla site: https://coffeeshop.cloudaccess.host/index.php
+Here’s the link to my Joomla site:(https://coffeeshop.cloudaccess.host/index.php)
