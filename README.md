@@ -1,9 +1,11 @@
 # **Learning Journal Entry**
 # Week 2.
 
-Coffee Shop Website Using Joomla CMS
+Coffee Shop Article Website Using Joomla CMS
 Project Overview
-This week, I transitioned from my first practical assignment to explore the Joomla CMS for building a startup business website. Joomla is an open-source content management system that enables easy creation and management of websites. The goal of this task was to create a functional, customizable website for my startup, incorporating essential pages, text, and images to reflect the business identity.  
+This week, I transitioned from my first practical assignment to explore the Joomla CMS for building a startup business website. \
+Joomla is an open-source content management system that enables easy creation and management of websites. 
+The goal of this task was to create a functional, customizable website for my startup, incorporating essential pages, text, and images to reflect the business identity.  
 
 ## **Initial Thoughts**
 Moving to Joomla from working with React and TypeScript felt like a major shift, as Joomla provides a more structured and user-friendly interface for site building, especially for users who are less comfortable with code. My goal was to make sure the website looked unique and fit the needs of a startup, rather than resembling a default Joomla installation. I was particularly interested in understanding how Joomla's template system worked and how I could customize it to align with the branding of the startup.
